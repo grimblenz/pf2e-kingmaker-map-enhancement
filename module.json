@@ -1,0 +1,15 @@
+{
+    "id": "pf2e-kingmaker-map-enhancement",
+    "title": "PF2E Kingmaker Map Enhancement",
+    "description": "A module to add Kingdom information iconography to the map.",
+    "authors": [
+      {
+      "name": "Grimble"
+      }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "10",
+      "verified": "11"
+    }
+  }
